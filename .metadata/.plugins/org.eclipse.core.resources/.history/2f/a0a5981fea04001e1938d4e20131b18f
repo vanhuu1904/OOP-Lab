@@ -1,0 +1,17 @@
+package hust.soict.globalict.aims.media;
+import java.util.List;
+import java.util.ArrayList;
+
+
+public abstract class Book {
+	public Book() {
+		
+	}
+	public void addAuthor(String authorName) {
+		
+	}
+	
+	public void removeAuthor(String authorName) {
+		
+	}
+}
